@@ -1,5 +1,5 @@
 # Web-Dev-1
 
+<img width="1729" height="839" alt="image" src="https://github.com/user-attachments/assets/9a613f45-dbdd-4e81-bd6f-f2ba6f634402" />
 
-<img width="1916" height="749" alt="image" src="https://github.com/user-attachments/assets/d43f78df-5de3-4131-a411-f47963c814a0" />
 
