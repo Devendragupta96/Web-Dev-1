@@ -1,6 +1,7 @@
 # Web-Dev-1
 
-<img width="1130" height="854" alt="image" src="https://github.com/user-attachments/assets/938104dc-cb79-4483-b486-a8da95cda82c" />
+<img width="718" height="741" alt="image" src="https://github.com/user-attachments/assets/f97fb421-1dbf-4878-9d5f-46a3a5cb8e55" />
+
 
 
 
